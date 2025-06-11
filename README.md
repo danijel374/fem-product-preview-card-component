@@ -26,7 +26,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### 🔗 Links
 
-- 💡 Solution URL: [Add solution URL here]()
+- 💡 Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-rOzgprtgrw)
 - 🌐 Live Site URL: [Product preview card component live](https://danijel374.github.io/fem-product-preview-card-component/)
 
 ---
